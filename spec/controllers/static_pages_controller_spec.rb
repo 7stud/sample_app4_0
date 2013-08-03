@@ -1,5 +1,6 @@
 require 'spec_helper'
 
+=begin
 describe StaticPagesController do
 
   describe "GET 'home'" do
@@ -17,3 +18,4 @@ describe StaticPagesController do
   end
 
 end
+=end
